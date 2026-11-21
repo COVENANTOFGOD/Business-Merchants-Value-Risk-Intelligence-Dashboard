@@ -1,4 +1,4 @@
-# Moniepoint Merchant Value & Risk Intelligence Dashboard
+# Business Merchant Value & Risk Intelligence Dashboard
 
 ## Identifying Merchant Retention Opportunities and Financial Risk Through Data-Driven Portfolio Analysis
 
